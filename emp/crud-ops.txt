@@ -1,3 +1,4 @@
 CRUD means create, read, update and delete
 
 C - Create 
+R - Read
